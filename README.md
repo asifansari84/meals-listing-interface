@@ -83,7 +83,7 @@ npm run build
 npm run preview
 ```
 
-The application will open at `http://localhost:5174/`
+The application will open at `https://meals-listing-interface-tau.vercel.app/`
 
 ## 💻 Usage
 
